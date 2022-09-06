@@ -1,0 +1,38 @@
+.navbar {
+  background-color: #1a2238;
+}
+
+main {
+  padding-top: 6rem;
+  background-color: #1a2238;
+}
+
+article {
+  padding-top: 5rem;
+}
+
+#gallery {
+  background-color: #1a2238;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #1a2238;
+}
+
+.tombol {
+  display: inline-block;
+  width: 118px;
+  background: #1a2238;
+  margin: 10px;
+  position: relative;
+  color: white;
+}
+
+.tombol:hover {
+  transform: scale(1.1);
+  color: #f4c700;
+}
